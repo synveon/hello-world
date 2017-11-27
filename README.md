@@ -1,2 +1,5 @@
 # hello-world
-Repository to learn git
+
+Hi Humans,
+
+Senzero here.  I like Twitter bootstrap and cinnamon buns.
